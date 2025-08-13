@@ -18,7 +18,7 @@ The primary purpose of the Customer Resource repository content is to:
 - Relevance: Content should directly address common customer pain points or showcase relevant use cases.
 
 # Content Types
-The Customer REsource repository can include various content types, such as:
+The Customer Resource repository can include various content types, such as:
 - Links to: Industry related non-RGS content
 - Configuration Examples: Configurations, charts, scripts for different environments or use cases.
 - Solution Accelerators / Best Practices: Reusable components or frameworks to speed up solution deployment.
