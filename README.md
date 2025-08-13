@@ -1,5 +1,4 @@
-# SA-Customer-Resources
-# Repository Content Guidelines
+# SA-Customer-Resources Content Guidelines
 
 # Repository Goal 
 The goal of this repository is to serve as a dynamic resource for account teams and Solution Architects, enabling them to proactively provide relevant information and content that directly contributes to advancing the sales process.
@@ -19,7 +18,6 @@ The primary purpose of the Customer Resource repository content is to:
 - Relevance: Content should directly address common customer pain points or showcase relevant use cases.
 
 # Content Types
-
 The Customer REsource repository can include various content types, such as:
 - Links to: Industry related non-RGS content
 - Configuration Examples: Configurations, charts, scripts for different environments or use cases.
